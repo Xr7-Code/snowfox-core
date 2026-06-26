@@ -33,4 +33,18 @@ To navigate the current development phase, explore our structured documentation 
 
 ## 📋 Active Core Focus (v2.2 Polish Phase)
 
-Before expanding into version 3, the current development milestone is strictly focused on bulletproofing **SnowFoxOS v
+Before expanding into version 3, the current development milestone is strictly focused on bulletproofing **SnowFoxOS v2.2** on real hardware:
+1. **Visual Refinement:** Eliminating residual legacy rendering engine styles in GTK2 and ensuring consistent ultra-dark/purple overrides across all toolkits.
+2. **Resource Optimization:** Pushing idle RAM footprints even lower by aggressively masking bloated background desktop portals and unneeded daemons.
+3. **Stability Enhancements:** Mitigating media-driver rendering edge cases in minimal, non-composited display environments.
+
+---
+
+## 🤝 Contributing & Feedback
+
+Since this repository functions as our blueprint, feedback on architecture, efficiency ideas, and performance optimizations is highly encouraged. 
+
+If you encounter system bugs or have hardware compatibility feedback based on the documented specifications, please open a detailed ticket in the **[GitHub Issues](../../issues)** section.
+
+---
+*SnowFoxOS is an independent, custom-tailored desktop experience built on a minimalist Linux foundation. Designed for speed, styled for elegance.*
